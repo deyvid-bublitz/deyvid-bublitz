@@ -16,7 +16,7 @@ infraestrutura, suporte a usuários, reprodução de cenários reportados por us
 software não apenas do ponto de vista técnico, mas também considerando o
 comportamento esperado e as necessidades do negócio.
 
-## 🎯 Foco atual
+## Foco atual
 
 Atualmente estou aprofundando meus conhecimentos em:
 
@@ -28,7 +28,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 - Cypress
 - Documentação de testes e cenários
 
-## 🛠️ Experiência técnica
+## Experiência técnica
 
 - PHP / MySQL / JavaScript
 - APIs SOAP e HTTP/JSON
@@ -37,7 +37,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 - Subversion / Git
 - Cypress
 
-## 📂 Projetos
+## Projetos
 
 ### DYGNUS CD Management Operation System
 
@@ -58,7 +58,7 @@ envolvendo testes funcionais, documentação, APIs, banco de dados e automação
 
 *Novos projetos serão adicionados aqui conforme forem concluídos.*
 
-## 📚 Formação
+## Formação
 
 **MBA em Gestão Empresarial** — Faculdade Senac  
 2014
