@@ -49,7 +49,7 @@ regras de negócio, integrações, testes funcionais e evolução de processos.
 
 > O código-fonte não é público por se tratar de um sistema proprietário.
 
-[Ver documentação do projeto (em breve)→]
+[Ver documentação do projeto →](https://github.com/deyvid-bublitz/dygnus-cd)
 
 ### Projetos de QA
 
